@@ -1,2 +1,2 @@
 # dotnet-practice
-with some backend understanding. im starting practice with dotnet
+dotnet practice with very limited backend knowledge currently
